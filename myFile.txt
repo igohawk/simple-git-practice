@@ -1,2 +1,4 @@
 -
 line2 remote branch2
+line3 remote branch1
+Line4 local branch1
