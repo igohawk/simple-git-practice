@@ -1,5 +1,2 @@
-line1
-Line2 - branch1
-Line2 branch2
-----------------
+-
 
